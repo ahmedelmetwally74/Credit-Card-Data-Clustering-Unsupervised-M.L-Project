@@ -7,27 +7,6 @@ This project explores clustering techniques on credit card customer data using v
 - **Dataset**: `CC GENERAL.csv`
 - **Description**: This dataset contains anonymized credit card customer data, with features representing customer behavior such as balance, purchases, payments, and credit limits.
 
-## Project Structure
-
-```bash
-Credit-Card-Data-Clustering/
-│
-├── data/
-│   └── CC GENERAL.csv              # Credit card dataset
-│
-├── notebook/
-│   └── Credit_Card_Data_Clustering.ipynb # Jupyter notebooks for clustering and visualizations
-│
-├── src/
-│   ├── kmeans_clustering.py        # K-Means clustering implementation
-│   ├── dbscan_clustering.py        # DBSCAN clustering implementation
-│   ├── gmm_clustering.py           # GMM clustering implementation
-│   └── heuristic_clustering.py     # Heuristic clustering implementation
-│
-├── README.md                       # Project documentation
-
-```
-
 ## Clustering Algorithms Used
 
 1. **K-Means Clustering**
